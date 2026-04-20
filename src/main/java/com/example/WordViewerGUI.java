@@ -66,4 +66,3 @@ public class WordViewerGUI extends JFrame {
         SwingUtilities.invokeLater(() -> new WordViewerGUI().setVisible(true));
     }
 }
-    
