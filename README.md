@@ -1,6 +1,8 @@
 # -sistema_Java_Swing_Visualizaci-n_Almacenamiento_Documentos_Word_Oracle-19c_- :.
 
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/1d62c095-2d1a-4a89-b980-a785cd5b74e8" />
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/1d62c095-2d1a-4a89-b980-a785cd5b74e8" />    
+
+<img width="2549" height="1078" alt="image" src="https://github.com/user-attachments/assets/832fd285-ee0a-4201-aeed-99a4e6b34527" />    
 
 ```
 
